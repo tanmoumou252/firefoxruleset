@@ -1,5 +1,9 @@
 #update:2023-1-8 01:09:26
 payload:
   - DOMAIN-KEYWORD,mozilla
+  - DOMAIN-KEYWORD,firefox
   - DOMAIN-SUFFIX,profile.accounts.firefox.com
   - DOMAIN-SUFFIX,push.services.mozilla.com
+  - DOMAIN-SUFFIX,accounts.firefox.com
+  - DOMAIN-SUFFIX,sync.services.mozilla.com
+  
