@@ -6,4 +6,5 @@ payload:
   - DOMAIN-SUFFIX,push.services.mozilla.com
   - DOMAIN-SUFFIX,accounts.firefox.com
   - DOMAIN-SUFFIX,sync.services.mozilla.com
+  - DOMAIN-SUFFIX,tanmoumou.link
   
