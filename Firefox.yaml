@@ -1,8 +1,11 @@
-#update:2023-11-16 21:05:26
+#update:2023-11-16 23:06:26
 payload:
   - DOMAIN-KEYWORD,mozilla
   - DOMAIN-KEYWORD,firefox
   - DOMAIN-SUFFIX,profile.accounts.firefox.com
+  - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,push.services.mozilla.com
   - DOMAIN-SUFFIX,accounts.firefox.com
   - DOMAIN-SUFFIX,sync.services.mozilla.com
