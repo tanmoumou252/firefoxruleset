@@ -15,7 +15,7 @@ payload:
 # getpocket
   - DOMAIN-KEYWORD,getpocket
   - DOMAIN-SUFFIX,getpocket.com
-  assets.getpocket.com
+  - DOMAIN-SUFFIX,assets.getpocket.com
 # 好像是getpocket广告存储之类的
   - DOMAIN-SUFFIX,omappapi.com
   - DOMAIN-SUFFIX,api.omappapi.com
